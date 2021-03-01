@@ -4,17 +4,88 @@ Presentation from
 
 - Donal Bintang Satria
 - Jan-Philip Muennich
-  ##### ![JPM](Bewerbungsbild_Münnich.jpg)
+  ![JPM](Bewerbungsbild_Münnich.jpg)
 
 ---
 
-### CD of the corona app
+#### Origins of the world hierarchy
 
-- how ofter was it deployed since the start?
-
-[ ] 10x
-[ ] 20x
+input here
 
 ---
 
-## Thank you
+#### Origins of the world hierarchy
+
+input here
+
+---
+
+#### Hierarchy forms
+
+input here
+
+---
+
+#### Hierarchy forms
+
+input here
+
+---
+
+#### What's wrong with hierarchy
+
+input here
+
+---
+
+#### What's wrong with hierarchy
+
+input here
+
+---
+
+#### Hierarchy and communications flow
+
+input here
+
+---
+
+#### Hierarchy and communications flow
+
+input here
+
+---
+
+#### Implication of hierarchy: Organizational hierarchy
+
+input here
+
+---
+
+#### Implication of hierarchy: Organizational hierarchy
+
+input here
+
+---
+
+#### Level of managements in organizational hierarchy
+
+input here
+
+---
+
+#### Level of managements in organizational hierarchy
+
+input here
+
+---
+
+#### Level of managements in organizational hierarchy
+
+input here
+
+---
+
+### Conclusion
+
+input here
