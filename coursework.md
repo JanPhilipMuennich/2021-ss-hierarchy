@@ -4,7 +4,7 @@ Presentation from
 
 - Donal Bintang Satria
 - Jan-Philip Muennich
-  ![JPM](Bewerbungsbild_Münnich.jpg)
+  ##### ![JPM](Bewerbungsbild_Münnich.jpg)
 
 ---
 
