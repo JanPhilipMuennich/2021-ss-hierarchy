@@ -3,9 +3,8 @@
 Presentation from
 
 - Donal Bintang Satria
-  ![Donal](Donal.jpg)
+
 - Jan-Philip Muennich
-  ![JPM](Bewerbungsbild_Münnich.jpg)
 
 ---
 
