@@ -17,8 +17,6 @@ Towards the end of the 6th century, it appeared through Pseudo-Dionysius Areopag
 
 #### Origins of the world hierarchy
 
-input here
-
 [ ] Option 1
 [ ] Option 2
 
