@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+# Hierarchy a natural order
+
+<<<<<<< HEAD
+Test
+=======
+XXYZ
+>>>>>>> e5b89e30eb3c057b1114621bd8bd0fdba70456ea
+=======
 ### Hierarchy a natural order?
 
 Presentation from
@@ -91,3 +100,4 @@ input here
 ### Conclusion
 
 input here
+>>>>>>> 44b8c1b649c31c7d4e1ec480a97f577431872ee8
