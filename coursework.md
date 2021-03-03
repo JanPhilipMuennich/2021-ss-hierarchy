@@ -11,9 +11,9 @@ Presentation from
 #### Origins of the world hierarchy
 
 input here
-XYZ
+The word hierarchy comes from the ancient Greek hierarchia, composed of hieros, meaning sacred, and archē, meaning leadership. At that time, however, the word referred only to religion. ​
 
----
+Towards the end of the 6th century, it appeared through Pseudo-Dionysius Areopagita as hierarchia for the office of high priest. The priests were divided into 24 priestly classes and weekly divisions, with their order and priestly service determined by lot. In the angelic doctrine of Pseudo-Dionysius Areopagita, the hierarchical order of the angels also
 
 #### Origins of the world hierarchy
 
