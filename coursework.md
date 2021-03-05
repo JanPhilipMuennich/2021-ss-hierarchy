@@ -108,7 +108,7 @@ input here
 
 ---
 
-### Level of managements in organizational hierarchy
+#### Level of managements in organizational hierarchy
 
 ![Level of managements in organizational hierarchy](Management.JPG)
 
