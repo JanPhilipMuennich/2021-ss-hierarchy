@@ -121,3 +121,5 @@ input here
 - Importance of hierarchy
 
 - Function of hierarchy in organizational context
+
+---
