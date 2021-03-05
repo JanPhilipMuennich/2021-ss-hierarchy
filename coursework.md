@@ -86,13 +86,13 @@ input here
 
 #### Product organizational hierarchy structure
 
-input here
+![Product Organizational Hierarchy structure](Product.JPG)
 
 ---
 
 #### Functional organizational hierarchy structure
 
-input here
+![Functional Organizational structure](Functional.JPG)
 
 ---
 
@@ -105,6 +105,12 @@ input here
 - Middle level management
 
 - Lower level management
+
+---
+
+### Level of managements in organizational hierarchy
+
+![Level of managements in organizational hierarchy](Management.JPG)
 
 ---
 
