@@ -16,9 +16,10 @@ _John Sculley_
 
 ---
 
-#### Origins of the world hierarchy
+#### Description of hierarchy
 
-input here
+- Its a system that organizes or ranks things
+- Also known as a pecking order or power structure
 
 ---
 
@@ -26,7 +27,7 @@ input here
 
 Hierarchy comes from the ancient Greek "herarchia"
 
-`composed`
+composed
 
 - "hieros" meaning sacred
 - "arche" meaning leadership
