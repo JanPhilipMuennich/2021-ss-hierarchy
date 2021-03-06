@@ -1,4 +1,4 @@
-# Hierarchy a natural order?
+## Hierarchy a natural order?
 
 Presentation from
 
