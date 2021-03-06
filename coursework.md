@@ -8,6 +8,13 @@ Presentation from
 
 ---
 
+#### Our Quote
+
+> "Innovation has never come through bureaucracy and hierarchy. It's always come from individuals."
+
+_John Sculley_
+CEO of
+
 #### Origins of the world hierarchy
 
 input here
@@ -18,7 +25,7 @@ input here
 
 Hierarchy comes from the ancient Greek "herarchia"
 
-#### composed
+`composed`
 
 - "hieros" meaning sacred
 - "arche" meaning leadership
