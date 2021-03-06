@@ -18,7 +18,7 @@ input here
 
 Hierarchy comes from the ancient Greek "herarchia"
 
-composed
+#### composed
 
 - "hieros" meaning sacred
 - "arche" meaning leadership
