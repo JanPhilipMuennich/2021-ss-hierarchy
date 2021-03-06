@@ -16,7 +16,10 @@ input here
 
 #### Origins of the world hierarchy
 
-[ ] Option 1
+- Hierarchy comes from the ancient Greek "herarchia"
+  composed
+- "hieros" meaning sacred
+- "arche" meaning leadership
 
 ---
 
