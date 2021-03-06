@@ -62,46 +62,70 @@ input here
 
 #### Hierarchy and communications flow
 
-input here
+- The importance of hierarchy in verbal and written interactions
 
----
+- Natural order and established rule of engagement
 
-#### Hierarchy and communications flow
-
-input here
-
----
-
-#### Implication of hierarchy: Organizational hierarchy
-
-input here
+- The need of adjust communication style
 
 ---
 
 #### Implication of hierarchy: Organizational hierarchy
 
-input here
+- Blue print of an organization's employee and jobs title
+
+- Structure of organizational hierarchy
+
+- Types of organizational hierarchy
+
+---
+
+#### Implication of hierarchy: Organizational hierarchy
+
+- Product organizational hierarchy structure
+
+- Advantage/disadvantage of product organizational hierarchy structure
+
+- Functional organizational hierarchy structure
+
+- Advantage/disadvantage of functional organizational hierarchy structure
+
+---
+
+#### Product organizational hierarchy structure
+
+![Product organizational hierarchy structure](Product.JPG)
+
+---
+
+#### Functional organizational hierarchy structure
+
+![Functional hierarchy structure](Functional.JPG)
 
 ---
 
 #### Level of managements in organizational hierarchy
 
-input here
+- Three management level of organizational hierarchy
+
+- Top-level
+
+- Middle-level
+
+- Low-level
 
 ---
 
 #### Level of managements in organizational hierarchy
 
-input here
-
----
-
-#### Level of managements in organizational hierarchy
-
-input here
+![Level of management in organizational hierarchy](Management.JPG)
 
 ---
 
 ### Conclusion
 
-input here
+- Hierarchy-natural order ?
+
+- Importance of hierarchy
+
+- Function on hierarchy in organizational context
