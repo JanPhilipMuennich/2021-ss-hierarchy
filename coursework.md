@@ -13,7 +13,8 @@ Presentation from
 > "Innovation has never come through bureaucracy and hierarchy. It's always come from individuals."
 
 _John Sculley_
-CEO of
+
+---
 
 #### Origins of the world hierarchy
 
