@@ -18,8 +18,6 @@ input here
 
 [ ] Option 1
 
-[ ] Option 2
-
 ---
 
 #### Hierarchy forms
