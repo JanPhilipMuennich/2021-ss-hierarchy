@@ -2,9 +2,9 @@
 
 Presentation from
 
-- Donal Bintang Satria
+- _Donal Bintang Satria_
 
-- Jan-Philip Muennich
+- _Jan-Philip Muennich_
 
 ---
 
