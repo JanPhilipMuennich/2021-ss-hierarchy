@@ -14,7 +14,7 @@ input here
 
 ---
 
-#### Origins of the world hierarchy
+### Origins of the world hierarchy
 
 Hierarchy comes from the ancient Greek "herarchia"
 
