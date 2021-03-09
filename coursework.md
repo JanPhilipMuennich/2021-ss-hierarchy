@@ -53,7 +53,8 @@ Delete?
 
 - Most information that answer key questions is produced at the top
 - Then must distributed downwards throughout the different levels
-- ***
+
+---
 
 #### What's wrong with hierarchy
 
