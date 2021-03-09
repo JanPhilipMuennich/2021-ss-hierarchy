@@ -97,15 +97,13 @@ Delete?
 
 #### Product organizational hierarchy structure
 
-![Product organizational hierarchy structure](Product.JPG)
+![Functional hierarchy structure](Functional.JPG)
 
 ---
 
 #### Functional organizational hierarchy structure
 
-![Functional hierarchy structure](Functional.JPG)
-
----
+## ![Product organizational hierarchy structure](Product.JPG)
 
 #### Level of managements in organizational hierarchy
 
