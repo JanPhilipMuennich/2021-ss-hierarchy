@@ -45,19 +45,20 @@ At the end of the 6th century, hierarchia was for the office of high priest.
 
 #### Hierarchy forms
 
-input here
+Delete?
 
 ---
 
 #### What's wrong with hierarchy
 
-input here
-
----
+- Most information that answer key questions is produced at the top
+- Then must distributed downwards throughout the different levels
+- ***
 
 #### What's wrong with hierarchy
 
-input here
+- It is also quite obvious that this is not the shortest or most efficient way!
+- more direct communication and interaction between the sender and the receiver
 
 ---
 
