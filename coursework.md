@@ -99,6 +99,8 @@ At the end of the 6th century, hierarchia was for the office of high priest.
 
 ![Functional hierarchy structure](Functional.JPG)
 
+---
+
 #### Level of managements in organizational hierarchy
 
 - Three management level of organizational hierarchy
