@@ -23,7 +23,7 @@ _John Sculley_
 
 ---
 
-### Origins of the world hierarchy
+### Origins of the word hierarchy
 
 Hierarchy comes from the ancient Greek "herarchia"
 
@@ -38,7 +38,8 @@ At the end of the 6th century, hierarchia was for the office of high priest.
 
 #### Hierarchy forms
 
-aaaa bbbbbbb
+- Stepwise order based on superordination and subordination, based on domination and submission
+- Positioned in vertical order according to importance
 
 ---
 
