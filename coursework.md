@@ -43,12 +43,6 @@ At the end of the 6th century, hierarchia was for the office of high priest.
 
 ---
 
-#### Hierarchy forms
-
-Delete?
-
----
-
 #### What's wrong with hierarchy
 
 - Most information that answer key questions is produced at the top
@@ -97,13 +91,13 @@ Delete?
 
 #### Product organizational hierarchy structure
 
-![Functional hierarchy structure](Functional.JPG)
+![Product organizational hierarchy structure](Product.JPG)
 
 ---
 
 #### Functional organizational hierarchy structure
 
-## ![Product organizational hierarchy structure](Product.JPG)
+![Functional hierarchy structure](Functional.JPG)
 
 #### Level of managements in organizational hierarchy
 
