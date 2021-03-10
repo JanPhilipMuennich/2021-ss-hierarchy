@@ -19,7 +19,9 @@ _John Sculley_
 #### Description of hierarchy
 
 - Its a system that organizes or ranks things
+  - e.g. at school the principal is at the top
 - Also known as a pecking order or power structure
+  - to understand who's on top or whats most important
 
 ---
 
