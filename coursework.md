@@ -40,9 +40,9 @@ At the end of the 6th century, hierarchia was for the office of high priest.
 
 #### Hierarchy forms
 
-- Stepwise order based on superordination and subordination,
+- Stepwise order based on superordination and subordination
 
-  based on domination and submission
+  -> based on domination and submission
 
 - Positioned in vertical order according to importance
 
