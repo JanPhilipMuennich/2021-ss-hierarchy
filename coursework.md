@@ -41,7 +41,9 @@ At the end of the 6th century, hierarchia was for the office of high priest.
 #### Hierarchy forms
 
 - Stepwise order based on superordination and subordination,
+
   based on domination and submission
+
 - Positioned in vertical order according to importance
 
 ---
@@ -56,7 +58,9 @@ At the end of the 6th century, hierarchia was for the office of high priest.
 #### What's wrong with hierarchy
 
 It is quite obvious that this is not the shortest or most efficient way!
+
 Need for:
+
 more direct communication and interaction between the sender and the receiver
 
 ---
