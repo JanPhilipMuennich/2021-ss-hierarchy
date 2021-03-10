@@ -2,9 +2,9 @@
 
 Presentation from
 
-- _Donal Bintang Satria_
+- #### _Donal Bintang Satria_
 
-- _Jan-Philip Muennich_
+- #### _Jan-Philip Muennich_
 
 ---
 
@@ -19,9 +19,9 @@ _John Sculley_
 #### Description of hierarchy
 
 - Its a system that organizes or ranks things
-  - e.g. at school the principal is at the top
+  - _e.g. at school the principal is at the top_
 - Also known as a pecking order or power structure
-  - to understand who's on top or whats most important
+  - _to understand who's on top or whats most important_
 
 ---
 
@@ -54,8 +54,9 @@ At the end of the 6th century, hierarchia was for the office of high priest.
 
 #### What's wrong with hierarchy
 
-- It is also quite obvious that this is not the shortest or most efficient way!
-- more direct communication and interaction between the sender and the receiver
+It is quite obvious that this is not the shortest or most efficient way!
+Need for:
+more direct communication and interaction between the sender and the receiver
 
 ---
 
