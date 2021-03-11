@@ -134,3 +134,14 @@ more direct communication and interaction between the sender and the receiver
 - Importance of hierarchy
 
 - Function on hierarchy in organizational context
+
+---
+
+#### References
+
+- https://wirtschaftslexikon.gabler.de/definition/hierarchie-35110
+- http://www.oscarberg.net/blog//2014/02/what-is-wrong-with-hierarchy.html
+- https://medium.com/the-tuning-fork/hierarchy-is-not-the-problem-892610f5d9c0
+- https://www.iedunote.com
+- https://www.nibusinessinfo.co.uk/content/hierarchical-organisational-structure
+- https://smallbusiness.chron.com/kinds-
